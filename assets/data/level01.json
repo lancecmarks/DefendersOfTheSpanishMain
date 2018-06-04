@@ -1,0 +1,1076 @@
+{
+    "level_time": 630,
+    "waves":
+    [
+        {
+            "__comment": "wave01 - 60 seconds, 10 basic pirates",
+            "duration": 0,
+            "enemies":
+            [
+                {
+                    "time": 0.1,
+                    "x": 600,
+                    "y": 315,
+                    "health": 100,
+                    "key": "pirate01",
+                    "scale": 1,
+                    "speedX": -10,
+                    "speedY": 0
+                },
+                {
+                    "time": 0.3,
+                    "x": 600,
+                    "y": 315,
+                    "health": 100,
+                    "key": "pirate01",
+                    "scale": 1,
+                    "speedX": -10,
+                    "speedY": 0
+                },
+                {
+                    "time": 0.5,
+                    "x": 600,
+                    "y": 315,
+                    "health": 100,
+                    "key": "pirate01",
+                    "scale": 1,
+                    "speedX": -10,
+                    "speedY": 0
+                },
+                {
+                    "time": 0.7,
+                    "x": 600,
+                    "y": 315,
+                    "health": 100,
+                    "key": "pirate01",
+                    "scale": 1,
+                    "speedX": -10,
+                    "speedY": 0
+                },
+                {
+                    "time": 0.9,
+                    "x": 600,
+                    "y": 315,
+                    "health": 100,
+                    "key": "pirate01",
+                    "scale": 1,
+                    "speedX": -10,
+                    "speedY": 0
+                },
+                {
+                    "time": 1.1,
+                    "x": 600,
+                    "y": 315,
+                    "health": 100,
+                    "key": "pirate01",
+                    "scale": 1,
+                    "speedX": -10,
+                    "speedY": 0
+                },
+                {
+                    "time": 1.3,
+                    "x": 600,
+                    "y": 315,
+                    "health": 100,
+                    "key": "pirate01",
+                    "scale": 1,
+                    "speedX": -10,
+                    "speedY": 0
+                },
+                {
+                    "time": 1.5,
+                    "x": 600,
+                    "y": 315,
+                    "health": 100,
+                    "key": "pirate01",
+                    "scale": 1,
+                    "speedX": -10,
+                    "speedY": 0
+                },
+                {
+                    "time": 1.7,
+                    "x": 600,
+                    "y": 315,
+                    "health": 100,
+                    "key": "pirate01",
+                    "scale": 1,
+                    "speedX": -10,
+                    "speedY": 0
+                },
+                {
+                    "time": 1.9,
+                    "x": 600,
+                    "y": 315,
+                    "health": 100,
+                    "key": "pirate01",
+                    "scale": 1,
+                    "speedX": -10,
+                    "speedY": 0
+                }
+            ]
+        },
+        {
+            "__comment": "wave02 - 60 seconds, 10 basic pirates",
+            "duration": 60,
+            "enemies":
+            [
+                {
+                    "time": 0.1,
+                    "x": 600,
+                    "y": 315,
+                    "health": 100,
+                    "key": "pirate01",
+                    "scale": 1,
+                    "speedX": -10,
+                    "speedY": 0
+                },
+                {
+                    "time": 0.3,
+                    "x": 600,
+                    "y": 315,
+                    "health": 100,
+                    "key": "pirate01",
+                    "scale": 1,
+                    "speedX": -10,
+                    "speedY": 0
+                },
+                {
+                    "time": 0.5,
+                    "x": 600,
+                    "y": 315,
+                    "health": 100,
+                    "key": "pirate01",
+                    "scale": 1,
+                    "speedX": -10,
+                    "speedY": 0
+                },
+                {
+                    "time": 0.7,
+                    "x": 600,
+                    "y": 315,
+                    "health": 100,
+                    "key": "pirate01",
+                    "scale": 1,
+                    "speedX": -10,
+                    "speedY": 0
+                },
+                {
+                    "time": 0.9,
+                    "x": 600,
+                    "y": 315,
+                    "health": 100,
+                    "key": "pirate01",
+                    "scale": 1,
+                    "speedX": -10,
+                    "speedY": 0
+                },
+                {
+                    "time": 1.1,
+                    "x": 600,
+                    "y": 315,
+                    "health": 100,
+                    "key": "pirate01",
+                    "scale": 1,
+                    "speedX": -10,
+                    "speedY": 0
+                },
+                {
+                    "time": 1.3,
+                    "x": 600,
+                    "y": 315,
+                    "health": 100,
+                    "key": "pirate01",
+                    "scale": 1,
+                    "speedX": -10,
+                    "speedY": 0
+                },
+                {
+                    "time": 1.5,
+                    "x": 600,
+                    "y": 315,
+                    "health": 100,
+                    "key": "pirate01",
+                    "scale": 1,
+                    "speedX": -10,
+                    "speedY": 0
+                },
+                {
+                    "time": 1.7,
+                    "x": 600,
+                    "y": 315,
+                    "health": 100,
+                    "key": "pirate02",
+                    "scale": 1,
+                    "speedX": -10,
+                    "speedY": 0
+                },
+                {
+                    "time": 1.9,
+                    "x": 600,
+                    "y": 315,
+                    "health": 100,
+                    "key": "pirate02",
+                    "scale": 1,
+                    "speedX": -10,
+                    "speedY": 0
+                }
+            ]
+        },
+        {
+            "__comment": "wave03 - 60 seconds, 10 basic pirates",
+            "duration": 120,
+            "enemies":
+            [
+                {
+                    "time": 0.1,
+                    "x": 600,
+                    "y": 315,
+                    "health": 100,
+                    "key": "pirate01",
+                    "scale": 1,
+                    "speedX": -10,
+                    "speedY": 0
+                },
+                {
+                    "time": 0.3,
+                    "x": 600,
+                    "y": 315,
+                    "health": 100,
+                    "key": "pirate01",
+                    "scale": 1,
+                    "speedX": -10,
+                    "speedY": 0
+                },
+                {
+                    "time": 0.5,
+                    "x": 600,
+                    "y": 315,
+                    "health": 100,
+                    "key": "pirate01",
+                    "scale": 1,
+                    "speedX": -10,
+                    "speedY": 0
+                },
+                {
+                    "time": 0.7,
+                    "x": 600,
+                    "y": 315,
+                    "health": 100,
+                    "key": "pirate01",
+                    "scale": 1,
+                    "speedX": -10,
+                    "speedY": 0
+                },
+                {
+                    "time": 0.9,
+                    "x": 600,
+                    "y": 315,
+                    "health": 100,
+                    "key": "pirate02",
+                    "scale": 1,
+                    "speedX": -10,
+                    "speedY": 0
+                },
+                {
+                    "time": 1.1,
+                    "x": 600,
+                    "y": 315,
+                    "health": 100,
+                    "key": "pirate02",
+                    "scale": 1,
+                    "speedX": -10,
+                    "speedY": 0
+                },
+                {
+                    "time": 1.3,
+                    "x": 600,
+                    "y": 315,
+                    "health": 100,
+                    "key": "pirate02",
+                    "scale": 1,
+                    "speedX": -10,
+                    "speedY": 0
+                },
+                {
+                    "time": 1.5,
+                    "x": 600,
+                    "y": 315,
+                    "health": 100,
+                    "key": "pirate02",
+                    "scale": 1,
+                    "speedX": -10,
+                    "speedY": 0
+                },
+                {
+                    "time": 1.7,
+                    "x": 600,
+                    "y": 315,
+                    "health": 100,
+                    "key": "pirate02",
+                    "scale": 1,
+                    "speedX": -10,
+                    "speedY": 0
+                },
+                {
+                    "time": 1.9,
+                    "x": 600,
+                    "y": 315,
+                    "health": 100,
+                    "key": "pirate02",
+                    "scale": 1,
+                    "speedX": -10,
+                    "speedY": 0
+                }
+            ]
+        },
+        {
+            "__comment": "wave04 - 60 seconds, 10 basic pirates",
+            "duration": 180,
+            "enemies":
+            [
+                {
+                    "time": 0.1,
+                    "x": 280,
+                    "y": 55,
+                    "health": 100,
+                    "key": "pirate01",
+                    "scale": 1,
+                    "speedX": -10,
+                    "speedY": 0
+                },
+                {
+                    "time": 0.3,
+                    "x": 600,
+                    "y": 315,
+                    "health": 100,
+                    "key": "pirate03",
+                    "scale": 1,
+                    "speedX": -10,
+                    "speedY": 0
+                },
+                {
+                    "time": 0.5,
+                    "x": 280,
+                    "y": 55,
+                    "health": 100,
+                    "key": "pirate01",
+                    "scale": 1,
+                    "speedX": -10,
+                    "speedY": 0
+                },
+                {
+                    "time": 0.7,
+                    "x": 600,
+                    "y": 315,
+                    "health": 100,
+                    "key": "pirate03",
+                    "scale": 1,
+                    "speedX": -10,
+                    "speedY": 0
+                },
+                {
+                    "time": 0.9,
+                    "x": 280,
+                    "y": 5,
+                    "health": 100,
+                    "key": "pirate01",
+                    "scale": 1,
+                    "speedX": -10,
+                    "speedY": 0
+                },
+                {
+                    "time": 1.1,
+                    "x": 600,
+                    "y": 315,
+                    "health": 100,
+                    "key": "pirate02",
+                    "scale": 1,
+                    "speedX": -10,
+                    "speedY": 0
+                },
+                {
+                    "time": 1.3,
+                    "x": 280,
+                    "y": 55,
+                    "health": 100,
+                    "key": "pirate01",
+                    "scale": 1,
+                    "speedX": -10,
+                    "speedY": 0
+                },
+                {
+                    "time": 1.5,
+                    "x": 280,
+                    "y": 55,
+                    "health": 100,
+                    "key": "pirate01",
+                    "scale": 1,
+                    "speedX": -10,
+                    "speedY": 0
+                },
+                {
+                    "time": 1.7,
+                    "x": 280,
+                    "y": 55,
+                    "health": 100,
+                    "key": "pirate02",
+                    "scale": 1,
+                    "speedX": -10,
+                    "speedY": 0
+                },
+                {
+                    "time": 1.9,
+                    "x": 280,
+                    "y": 55,
+                    "health": 100,
+                    "key": "pirate02",
+                    "scale": 1,
+                    "speedX": -10,
+                    "speedY": 0
+                }
+            ]
+        },
+        {
+            "__comment": "wave05 - 60 seconds, 10 basic pirates",
+            "duration": 240,
+            "enemies":
+            [
+                {
+                    "time": 0.1,
+                    "x": 280,
+                    "y": 55,
+                    "health": 100,
+                    "key": "pirate01",
+                    "scale": 1,
+                    "speedX": -10,
+                    "speedY": 0
+                },
+                {
+                    "time": 0.3,
+                    "x": 600,
+                    "y": 315,
+                    "health": 100,
+                    "key": "pirate03",
+                    "scale": 1,
+                    "speedX": -10,
+                    "speedY": 0
+                },
+                {
+                    "time": 0.5,
+                    "x": 280,
+                    "y": 55,
+                    "health": 100,
+                    "key": "pirate01",
+                    "scale": 1,
+                    "speedX": -10,
+                    "speedY": 0
+                },
+                {
+                    "time": 0.7,
+                    "x": 600,
+                    "y": 315,
+                    "health": 100,
+                    "key": "pirate03",
+                    "scale": 1,
+                    "speedX": -10,
+                    "speedY": 0
+                },
+                {
+                    "time": 0.9,
+                    "x": 280,
+                    "y": 5,
+                    "health": 100,
+                    "key": "pirate01",
+                    "scale": 1,
+                    "speedX": -10,
+                    "speedY": 0
+                },
+                {
+                    "time": 1.1,
+                    "x": 600,
+                    "y": 315,
+                    "health": 100,
+                    "key": "pirate02",
+                    "scale": 1,
+                    "speedX": -10,
+                    "speedY": 0
+                },
+                {
+                    "time": 1.3,
+                    "x": 280,
+                    "y": 55,
+                    "health": 100,
+                    "key": "pirate01",
+                    "scale": 1,
+                    "speedX": -10,
+                    "speedY": 0
+                },
+                {
+                    "time": 1.5,
+                    "x": 280,
+                    "y": 55,
+                    "health": 100,
+                    "key": "pirate01",
+                    "scale": 1,
+                    "speedX": -10,
+                    "speedY": 0
+                },
+                {
+                    "time": 1.7,
+                    "x": 280,
+                    "y": 55,
+                    "health": 100,
+                    "key": "pirate02",
+                    "scale": 1,
+                    "speedX": -10,
+                    "speedY": 0
+                },
+                {
+                    "time": 1.9,
+                    "x": 280,
+                    "y": 55,
+                    "health": 100,
+                    "key": "pirate02",
+                    "scale": 1,
+                    "speedX": -10,
+                    "speedY": 0
+                }
+            ]
+        },
+        {
+            "__comment": "wave06 - 60 seconds, 10 basic pirates",
+            "duration": 300,
+            "enemies":
+            [
+                {
+                    "time": 0.1,
+                    "x": 280,
+                    "y": 55,
+                    "health": 100,
+                    "key": "pirate02",
+                    "scale": 1,
+                    "speedX": -10,
+                    "speedY": 0
+                },
+                {
+                    "time": 0.3,
+                    "x": 600,
+                    "y": 315,
+                    "health": 100,
+                    "key": "pirate03",
+                    "scale": 1,
+                    "speedX": -10,
+                    "speedY": 0
+                },
+                {
+                    "time": 0.5,
+                    "x": 280,
+                    "y": 55,
+                    "health": 100,
+                    "key": "pirate01",
+                    "scale": 1,
+                    "speedX": -10,
+                    "speedY": 0
+                },
+                {
+                    "time": 0.7,
+                    "x": 600,
+                    "y": 315,
+                    "health": 100,
+                    "key": "pirate03",
+                    "scale": 1,
+                    "speedX": -10,
+                    "speedY": 0
+                },
+                {
+                    "time": 0.9,
+                    "x": 280,
+                    "y": 5,
+                    "health": 100,
+                    "key": "pirate02",
+                    "scale": 1,
+                    "speedX": -10,
+                    "speedY": 0
+                },
+                {
+                    "time": 1.1,
+                    "x": 600,
+                    "y": 315,
+                    "health": 100,
+                    "key": "pirate02",
+                    "scale": 1,
+                    "speedX": -10,
+                    "speedY": 0
+                },
+                {
+                    "time": 1.3,
+                    "x": 280,
+                    "y": 55,
+                    "health": 100,
+                    "key": "pirate02",
+                    "scale": 1,
+                    "speedX": -10,
+                    "speedY": 0
+                },
+                {
+                    "time": 1.5,
+                    "x": 280,
+                    "y": 55,
+                    "health": 100,
+                    "key": "pirate01",
+                    "scale": 1,
+                    "speedX": -10,
+                    "speedY": 0
+                },
+                {
+                    "time": 1.7,
+                    "x": 280,
+                    "y": 55,
+                    "health": 100,
+                    "key": "pirate01",
+                    "scale": 1,
+                    "speedX": -10,
+                    "speedY": 0
+                },
+                {
+                    "time": 1.9,
+                    "x": 280,
+                    "y": 55,
+                    "health": 100,
+                    "key": "pirate01",
+                    "scale": 1,
+                    "speedX": -10,
+                    "speedY": 0
+                }
+            ]
+        },
+        {
+            "__comment": "wave07 - 60 seconds, 10 basic pirates",
+            "duration": 360,
+            "enemies":
+            [
+                {
+                    "time": 0.1,
+                    "x": 280,
+                    "y": 55,
+                    "health": 100,
+                    "key": "pirate01",
+                    "scale": 1,
+                    "speedX": -10,
+                    "speedY": 0
+                },
+                {
+                    "time": 0.3,
+                    "x": 600,
+                    "y": 315,
+                    "health": 100,
+                    "key": "pirate03",
+                    "scale": 1,
+                    "speedX": -10,
+                    "speedY": 0
+                },
+                {
+                    "time": 0.5,
+                    "x": 280,
+                    "y": 55,
+                    "health": 100,
+                    "key": "pirate01",
+                    "scale": 1,
+                    "speedX": -10,
+                    "speedY": 0
+                },
+                {
+                    "time": 0.7,
+                    "x": 600,
+                    "y": 315,
+                    "health": 100,
+                    "key": "pirate03",
+                    "scale": 1,
+                    "speedX": -10,
+                    "speedY": 0
+                },
+                {
+                    "time": 0.9,
+                    "x": 280,
+                    "y": 5,
+                    "health": 100,
+                    "key": "pirate03",
+                    "scale": 1,
+                    "speedX": -10,
+                    "speedY": 0
+                },
+                {
+                    "time": 1.1,
+                    "x": 600,
+                    "y": 315,
+                    "health": 100,
+                    "key": "pirate02",
+                    "scale": 1,
+                    "speedX": -10,
+                    "speedY": 0
+                },
+                {
+                    "time": 1.3,
+                    "x": 280,
+                    "y": 55,
+                    "health": 100,
+                    "key": "pirate01",
+                    "scale": 1,
+                    "speedX": -10,
+                    "speedY": 0
+                },
+                {
+                    "time": 1.5,
+                    "x": 280,
+                    "y": 55,
+                    "health": 100,
+                    "key": "pirate01",
+                    "scale": 1,
+                    "speedX": -10,
+                    "speedY": 0
+                },
+                {
+                    "time": 1.7,
+                    "x": 280,
+                    "y": 55,
+                    "health": 100,
+                    "key": "pirate01",
+                    "scale": 1,
+                    "speedX": -10,
+                    "speedY": 0
+                },
+                {
+                    "time": 1.9,
+                    "x": 280,
+                    "y": 55,
+                    "health": 100,
+                    "key": "pirate01",
+                    "scale": 1,
+                    "speedX": -10,
+                    "speedY": 0
+                }
+            ]
+        },
+        {
+            "__comment": "wave08 - 60 seconds, 10 basic pirates",
+            "duration": 420,
+            "enemies":
+            [
+                {
+                    "time": 0.1,
+                    "x": 280,
+                    "y": 55,
+                    "health": 100,
+                    "key": "pirate02",
+                    "scale": 1,
+                    "speedX": -10,
+                    "speedY": 0
+                },
+                {
+                    "time": 0.3,
+                    "x": 600,
+                    "y": 315,
+                    "health": 100,
+                    "key": "pirate03",
+                    "scale": 1,
+                    "speedX": -10,
+                    "speedY": 0
+                },
+                {
+                    "time": 0.5,
+                    "x": 280,
+                    "y": 55,
+                    "health": 100,
+                    "key": "pirate01",
+                    "scale": 1,
+                    "speedX": -10,
+                    "speedY": 0
+                },
+                {
+                    "time": 0.7,
+                    "x": 600,
+                    "y": 315,
+                    "health": 100,
+                    "key": "pirate03",
+                    "scale": 1,
+                    "speedX": -10,
+                    "speedY": 0
+                },
+                {
+                    "time": 0.9,
+                    "x": 280,
+                    "y": 5,
+                    "health": 100,
+                    "key": "pirate01",
+                    "scale": 1,
+                    "speedX": -10,
+                    "speedY": 0
+                },
+                {
+                    "time": 1.1,
+                    "x": 600,
+                    "y": 315,
+                    "health": 100,
+                    "key": "pirate02",
+                    "scale": 1,
+                    "speedX": -10,
+                    "speedY": 0
+                },
+                {
+                    "time": 1.3,
+                    "x": 280,
+                    "y": 55,
+                    "health": 100,
+                    "key": "pirate01",
+                    "scale": 1,
+                    "speedX": -10,
+                    "speedY": 0
+                },
+                {
+                    "time": 1.5,
+                    "x": 280,
+                    "y": 55,
+                    "health": 100,
+                    "key": "pirate01",
+                    "scale": 1,
+                    "speedX": -10,
+                    "speedY": 0
+                },
+                {
+                    "time": 1.7,
+                    "x": 280,
+                    "y": 55,
+                    "health": 100,
+                    "key": "pirate03",
+                    "scale": 1,
+                    "speedX": -10,
+                    "speedY": 0
+                },
+                {
+                    "time": 1.9,
+                    "x": 280,
+                    "y": 55,
+                    "health": 100,
+                    "key": "pirate03",
+                    "scale": 1,
+                    "speedX": -10,
+                    "speedY": 0
+                }
+            ]
+        },
+        {
+            "__comment": "wave09 - 60 seconds, 10 basic pirates",
+            "duration": 480,
+            "enemies":
+            [
+                {
+                    "time": 0.1,
+                    "x": 280,
+                    "y": 55,
+                    "health": 100,
+                    "key": "pirate02",
+                    "scale": 1,
+                    "speedX": -10,
+                    "speedY": 0
+                },
+                {
+                    "time": 0.3,
+                    "x": 600,
+                    "y": 315,
+                    "health": 100,
+                    "key": "pirate03",
+                    "scale": 1,
+                    "speedX": -10,
+                    "speedY": 0
+                },
+                {
+                    "time": 0.5,
+                    "x": 280,
+                    "y": 55,
+                    "health": 100,
+                    "key": "pirate03",
+                    "scale": 1,
+                    "speedX": -10,
+                    "speedY": 0
+                },
+                {
+                    "time": 0.7,
+                    "x": 600,
+                    "y": 315,
+                    "health": 100,
+                    "key": "pirate03",
+                    "scale": 1,
+                    "speedX": -10,
+                    "speedY": 0
+                },
+                {
+                    "time": 0.9,
+                    "x": 280,
+                    "y": 5,
+                    "health": 100,
+                    "key": "pirate01",
+                    "scale": 1,
+                    "speedX": -10,
+                    "speedY": 0
+                },
+                {
+                    "time": 1.1,
+                    "x": 600,
+                    "y": 315,
+                    "health": 100,
+                    "key": "pirate02",
+                    "scale": 1,
+                    "speedX": -10,
+                    "speedY": 0
+                },
+                {
+                    "time": 1.3,
+                    "x": 280,
+                    "y": 55,
+                    "health": 100,
+                    "key": "pirate01",
+                    "scale": 1,
+                    "speedX": -10,
+                    "speedY": 0
+                },
+                {
+                    "time": 1.5,
+                    "x": 280,
+                    "y": 55,
+                    "health": 100,
+                    "key": "pirate01",
+                    "scale": 1,
+                    "speedX": -10,
+                    "speedY": 0
+                },
+                {
+                    "time": 1.7,
+                    "x": 280,
+                    "y": 55,
+                    "health": 100,
+                    "key": "pirate02",
+                    "scale": 1,
+                    "speedX": -10,
+                    "speedY": 0
+                },
+                {
+                    "time": 1.9,
+                    "x": 280,
+                    "y": 55,
+                    "health": 100,
+                    "key": "pirate03",
+                    "scale": 1,
+                    "speedX": -10,
+                    "speedY": 0
+                }
+            ]
+        },
+        {
+            "__comment": "wave10 - 60 seconds, 10 basic pirates",
+            "duration": 540,
+            "enemies":
+            [
+                {
+                    "time": 0.1,
+                    "x": 280,
+                    "y": 55,
+                    "health": 100,
+                    "key": "pirate03",
+                    "scale": 1,
+                    "speedX": -10,
+                    "speedY": 0
+                },
+                {
+                    "time": 0.3,
+                    "x": 600,
+                    "y": 315,
+                    "health": 100,
+                    "key": "pirate03",
+                    "scale": 1,
+                    "speedX": -10,
+                    "speedY": 0
+                },
+                {
+                    "time": 0.5,
+                    "x": 280,
+                    "y": 55,
+                    "health": 100,
+                    "key": "pirate03",
+                    "scale": 1,
+                    "speedX": -10,
+                    "speedY": 0
+                },
+                {
+                    "time": 0.7,
+                    "x": 600,
+                    "y": 315,
+                    "health": 100,
+                    "key": "pirate03",
+                    "scale": 1,
+                    "speedX": -10,
+                    "speedY": 0
+                },
+                {
+                    "time": 0.9,
+                    "x": 280,
+                    "y": 5,
+                    "health": 100,
+                    "key": "pirate03",
+                    "scale": 1,
+                    "speedX": -10,
+                    "speedY": 0
+                },
+                {
+                    "time": 1.1,
+                    "x": 600,
+                    "y": 315,
+                    "health": 100,
+                    "key": "pirate03",
+                    "scale": 1,
+                    "speedX": -10,
+                    "speedY": 0
+                },
+                {
+                    "time": 1.3,
+                    "x": 280,
+                    "y": 55,
+                    "health": 100,
+                    "key": "pirate03",
+                    "scale": 1,
+                    "speedX": -10,
+                    "speedY": 0
+                },
+                {
+                    "time": 1.5,
+                    "x": 280,
+                    "y": 55,
+                    "health": 100,
+                    "key": "pirate03",
+                    "scale": 1,
+                    "speedX": -10,
+                    "speedY": 0
+                },
+                {
+                    "time": 1.7,
+                    "x": 280,
+                    "y": 55,
+                    "health": 100,
+                    "key": "pirate03",
+                    "scale": 1,
+                    "speedX": -10,
+                    "speedY": 0
+                },
+                {
+                    "time": 1.9,
+                    "x": 280,
+                    "y": 55,
+                    "health": 100,
+                    "key": "pirate03",
+                    "scale": 1,
+                    "speedX": -10,
+                    "speedY": 0
+                }
+            ]
+        }
+    ]
+}
